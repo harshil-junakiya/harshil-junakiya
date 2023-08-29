@@ -1,13 +1,13 @@
 
 <h1 align="center">Hey👋, I'm Harshil Junakiya</h1>
-<h3 align="center">Learning Web3 Development</h3>
+<h3 align="center">Learning Full Stack Development & ML/AI</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 <hr style="width:50%;text-align:left;margin-left:0">
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshil-junakiya&label=Profile%20views&color=0e75b6&style=flat" alt="harshil-junakiya" /> </p>
 
-- 🌱 I’m currently learning **React, Hardhat**
+- 🌱 I’m currently learning **ML/AI**
 
 - 📫 How to reach me **harshiljunakiya123@gmail.com**
 
