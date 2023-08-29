@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey👋, I'm Harshil Junakiya</h1>
-<h3 align="center">Learning Full Stack Development & ML/AI</h3>
+<h3 align="center">Learning Backend Development & ML/AI</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 <hr style="width:50%;text-align:left;margin-left:0">
 
